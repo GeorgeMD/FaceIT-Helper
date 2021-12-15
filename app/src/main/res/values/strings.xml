@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FACEIT Helper</string>
+    <string name="username">Username</string>
+    <string name="show_info_label">Show info</string>
+    <string name="loading">Loading…</string>
+    <string name="game_icon">Game icon</string>
 </resources>
